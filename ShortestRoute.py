@@ -25,8 +25,8 @@ def valid(i,j):
 
 q = Queue()
 INF=1000000001
-st=[1133,872]   #starting point example
-en=[666,253]    #ending point
+st=[1133,872]  
+en=[666,253]    
 dx=[0,0,1,-1]
 dy=[1,-1,0,0]
 dis=[]
@@ -76,7 +76,7 @@ path[s2t]
 path['667 253']
 
 
-# In[36]:
+
 
 
 
